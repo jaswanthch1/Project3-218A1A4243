@@ -1,0 +1,34 @@
+nav{
+    background-color: #eb21c9;
+    color:rgb(6, 240, 209);
+    padding: 2;
+}
+nav ul{
+    life-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-left: 220;
+    font-size: large;
+}
+nav ul li a{
+    color: white;
+    text-decoration: underline;
+}
+nav ul li A:hoover{
+    text-decoration: underline;
+}
+footer{
+    background-color: #eb21c9;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+body{
+    background-color:;
+}
+h1{
+    color:#eb21c9;
+}
